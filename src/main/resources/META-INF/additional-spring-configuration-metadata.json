@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "weather.api.host",
+    "type": "java.lang.String",
+    "description": "Weather API host name'"
+  },
+  {
+    "name": "weather.api.app.id",
+    "type": "java.lang.String",
+    "description": "Weather API key"
+  },
+  {
+    "name": "covid.api.host",
+    "type": "java.lang.String",
+    "description": "Covid updated data"
+  }
+]}
